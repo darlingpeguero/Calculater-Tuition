@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LAB_3C_Write_your_own_program_DarlingP08012020/1.0.0": {
+        "runtime": {
+          "LAB_3C_Write_your_own_program_DarlingP08012020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LAB_3C_Write_your_own_program_DarlingP08012020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
